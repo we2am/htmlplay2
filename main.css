@@ -1,0 +1,20 @@
+table{
+    border: 2px solid red;
+    border-collapse: collapse;
+    color: red;
+    width:50%;
+}
+thead{
+background: yellow;
+color: black;
+}
+tfoot{
+  background: gray;  
+}
+td{
+    border: 2px solid black;
+}
+th{
+    width:25%;
+    border: 2px dashed black;
+}
